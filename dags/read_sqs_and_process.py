@@ -17,7 +17,7 @@ with DAG(
     read_queue = SqsSensor(
         task_id='poll_queue',
         sqs_queue='test_queue',
-        max_messages=3,
+        max_messages=5,
         region_name='us-east-1',
         aws_conn_id='aws',
         mode='reschedule'

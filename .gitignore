@@ -3,3 +3,5 @@ tmp
 logs
 config
 dags/__pycache__/*
+architecture_diagram.drawio
+architecture_sns_lambda_airflow.drawio
