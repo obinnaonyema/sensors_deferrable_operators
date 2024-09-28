@@ -5,8 +5,7 @@ import logging
 
 default_args = {
     'owner':'Obinna',
-    'start_date':days_ago(1),
-    'schedule_interval':None
+    'start_date':days_ago(1)
 }
 
 with DAG(

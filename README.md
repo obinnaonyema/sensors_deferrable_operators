@@ -8,3 +8,6 @@ I have written a detailed article here to explain my thought process: https://me
 ## Trigger DAG with SNS, SQS and Lambda
 I have a detailed article to exlain my implementation: https://medium.com/towards-data-engineering/create-event-driven-airflow-pipeline-with-sns-sqs-and-lambda-c1b706a991e5
 
+## ExternalTaskSensor vs TriggerDagRunOperator
+Read through this Medium article to follow my approach: https://medium.com/towards-data-engineering/externaltasksensor-vs-triggerdagrunoperator-1aaab9a469b7 
+
